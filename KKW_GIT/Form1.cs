@@ -19,7 +19,8 @@ namespace KKW_GIT
 
         private void b()
         {
-
+            int a;
+            int b;
         }
     }
 }
