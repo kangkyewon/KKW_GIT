@@ -23,6 +23,7 @@ namespace KKW_GIT
             Console.WriteLine("");
             int w;
             int q;
+            int h;
         }
     }
 }
