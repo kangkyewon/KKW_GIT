@@ -25,6 +25,7 @@ namespace KKW_GIT
             int q;
             int h;
             int i;
+            int form;
         }
     }
 }
