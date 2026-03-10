@@ -23,10 +23,12 @@ namespace KKW_GIT
             int b;
             int c;
             int d;
-            int e;
-            int f;
+            
             int ww;
             int gggg;
+
+            int qqq;
+
         }
     }
 }
