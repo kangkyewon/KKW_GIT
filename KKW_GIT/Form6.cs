@@ -10,28 +10,11 @@ using System.Windows.Forms;
 
 namespace KKW_GIT
 {
-    public partial class Form1 : Form
+    public partial class Form6 : Form
     {
-        public Form1()
+        public Form6()
         {
             InitializeComponent();
         }
-
-        private void b()
-        {
-            int a;
-            int b;
-            int c;
-            int d;
-            
-            int ww;
-
-            int qqq;
-            int smsmsm;
-            int me;
-
-            int tttt;
-        }
     }
 }
-
