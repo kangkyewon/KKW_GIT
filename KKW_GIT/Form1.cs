@@ -25,7 +25,6 @@ namespace KKW_GIT
             int d;
             
             int ww;
-            int gggg;
 
             int qqq;
             int smsmsm;
