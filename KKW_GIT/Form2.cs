@@ -10,26 +10,22 @@ using System.Windows.Forms;
 
 namespace KKW_GIT
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
-
-        private void b()
+        private void c()
         {
-            int a;
-            int b;
             int c;
-            int d;
-            
-            int ww;
-            int gggg;
-
-            int qqq;
-
+            int e;
+            Console.WriteLine("");
+            int w;
+            int q;
+            int h;
+            int i;
+            int form;
         }
     }
 }
-
